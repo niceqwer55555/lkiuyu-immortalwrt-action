@@ -13,7 +13,8 @@
 name: Update Checker
 
 env:
-  REPO_URL: https://github.com/lkiuyu/immortalwrt
+ # REPO_URL: https://github.com/lkiuyu/immortalwrt
+  REPO_URL: https://github.com/kennyhn88/immortalwrt
   REPO_BRANCH: master
 
 on:
